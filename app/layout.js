@@ -27,10 +27,15 @@ export default function RootLayout({ children }) {
                 <header className="bg-white shadow-md">
                     <div className="max-w-6xl mx-auto p-4 flex justify-between items-center">
                         <h1 className="text-2xl font-semibold text-indigo-600">
-                          Shahnewaz's Portfolio
+                          {"Shahnewaz's"} Portfolio
                         </h1>
                         <nav>
                             <ul className="flex gap-8 text-lg font-medium">
+                                <li>
+                                    <Link href="/" className="hover:text-indigo-500">
+                                        Home
+                                    </Link>
+                                </li>
                                 <li>
                                     <Link href="/about" className="hover:text-indigo-500">
                                         About
@@ -51,7 +56,7 @@ export default function RootLayout({ children }) {
                     </div>
                 </header>
 
-                <main className="flex-grow max-w-6xl mx-auto p-6 mt-10">
+                <main className="flex-grow ">
                     {children}
                 </main>
 
