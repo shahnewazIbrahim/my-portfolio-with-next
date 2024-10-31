@@ -67,22 +67,25 @@ export default function RootLayout({ children }) {
                         </p>
                         <div className="flex space-x-6 mt-4 md:mt-0">
                             <a
-                                href="#"
+                                target="_blank"
+                                href="https://www.linkedin.com/in/shahnewazibrahim"
                                 className="hover:text-indigo-400 transition-colors duration-300"
                             >
                                 LinkedIn
                             </a>
                             <a
-                                href="#"
+                                target="_blank"
+                                href="https://github.com/shahnewazIbrahim"
                                 className="hover:text-indigo-400 transition-colors duration-300"
                             >
                                 GitHub
                             </a>
                             <a
-                                href="#"
+                                target="_blank"
+                                href="https://www.facebook.com/shahnewaz.bd1/"
                                 className="hover:text-indigo-400 transition-colors duration-300"
                             >
-                                Twitter
+                                Facebook
                             </a>
                         </div>
                     </div>
