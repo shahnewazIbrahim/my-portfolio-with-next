@@ -21,18 +21,18 @@ export default function Home() {
         }`}
       >
         <h1 className="text-4xl font-extrabold mb-4 text-yellow-300 drop-shadow-lg">
-          Md Shahnewaz Ibrahim Himu
+          Md Shahnewaz Ibrahim
         </h1>
         <h2 className="text-xl font-semibold mb-6 text-gray-200 tracking-wide">
           Web Developer | Android Developer | Finance Graduate
         </h2>
 
         <p className="text-md md:text-lg leading-relaxed mb-4 text-gray-100 tracking-wide">
-          With a solid foundation in web development and a passion for technology, Md Shahnewaz Ibrahim Himu brings expertise in the Laravel framework, Vue.js, JavaScript, Tailwind CSS, and MySQL. He holds a BBA in Finance from Southeast University and has a comprehensive educational background with top achievements at BAF Shaheen College, Kurmitola. Currently, he’s a Junior Web Developer at Digit Gate IT, where he’s building responsive, dynamic applications.
+          With a solid foundation in web development and a passion for technology, Md Shahnewaz Ibrahim brings expertise in the Laravel framework, Vue.js, JavaScript, Tailwind CSS, and MySQL. He holds a BBA in Finance from Southeast University and has a comprehensive educational background with top achievements at BAF Shaheen College, Kurmitola. Currently, he’s a Junior Web Developer at Digit Gate IT, where he’s building responsive, dynamic applications.
         </p>
 
         <p className="text-md md:text-lg leading-relaxed mb-6 text-gray-100 tracking-wide">
-          Having recently completed an online web development course at Ostad, Himu is skilled in both front-end and back-end development. His portfolio showcases work on payment processing, Blade and Vue.js component integration, API-based projects, and Android applications. Himu’s drive for excellence and ability to learn quickly make him a valuable asset to any tech team.
+          Having recently completed an online web development course at Ostad, Shahnewaz is skilled in both front-end and back-end development. His portfolio showcases work on payment processing, Blade and Vue.js component integration, API-based projects. Shahnewaz’s drive for excellence and ability to learn quickly make him a valuable asset to any tech team.
         </p>
 
         <div className="flex justify-center lg:justify-start">
