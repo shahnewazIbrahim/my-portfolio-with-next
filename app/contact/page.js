@@ -14,10 +14,10 @@ export default function Contact() {
           </p>
           <div className="mt-8 space-y-4">
               <p className="text-lg text-gray-800 font-semibold">
-                  <span className="text-indigo-500">Email:</span> myemail@example.com
+                  <span className="text-indigo-500">Email:</span> shahnewaz886@gmail.com
               </p>
               <p className="text-lg text-gray-800 font-semibold">
-                  <span className="text-indigo-500">Phone:</span> +1234567890
+                  <span className="text-indigo-500">Phone:</span> +8801521480800
               </p>
           </div>
           <div className="mt-10">
