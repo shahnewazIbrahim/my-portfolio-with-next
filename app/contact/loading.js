@@ -2,6 +2,6 @@
 export default function Loading() {
     console.log("error")
     return (
-        <div>Loading About Segment...</div>
+        <div>Loading Cotact Segment...</div>
     )
 }
