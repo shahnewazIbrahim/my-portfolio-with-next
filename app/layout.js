@@ -56,7 +56,7 @@ export default function RootLayout({ children }) {
                     </div>
                 </header>
 
-                <main className="flex-grow ">
+                <main className="flex-grow max-w-6xl mx-auto">
                     {children}
                 </main>
 
