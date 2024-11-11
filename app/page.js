@@ -12,7 +12,7 @@ export default function Home() {
   }, []);
 
   return (
-    <section className="relative flex flex-col lg:flex-row items-center justify-center min-h-screen bg-gradient-to-r from-indigo-600 via-purple-600 to-pink-500 text-white p-8 md:p-16 overflow-hidden">
+    <section className="relative rounded-lg flex flex-col lg:flex-row items-center justify-center min-h-screen bg-gradient-to-r from-indigo-600 via-purple-600 to-pink-500 text-white p-8 md:p-16 overflow-hidden">
       
       {/* Content Section */}
       <div
@@ -24,7 +24,7 @@ export default function Home() {
           Md Shahnewaz Ibrahim
         </h1>
         <h2 className="text-xl font-semibold mb-6 text-gray-200 tracking-wide">
-          Web Developer | Android Developer | Finance Graduate
+          Web Developer | Finance Graduate
         </h2>
 
         <p className="text-md md:text-lg leading-relaxed mb-4 text-gray-100 tracking-wide">
