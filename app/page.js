@@ -12,7 +12,7 @@ export default function Home() {
   }, []);
 
   return (
-    <section className="flex flex-col lg:flex-row items-center justify-center h-screen bg-gradient-to-r from-indigo-600 via-purple-600 to-pink-500 text-white p-8 md:p-16">
+    <section className="relative flex flex-col lg:flex-row items-center justify-center min-h-screen bg-gradient-to-r from-indigo-600 via-purple-600 to-pink-500 text-white p-8 md:p-16 overflow-hidden">
       
       {/* Content Section */}
       <div

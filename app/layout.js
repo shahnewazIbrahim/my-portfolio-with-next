@@ -56,12 +56,12 @@ export default function RootLayout({ children }) {
                     </div>
                 </header>
 
-                <main className="flex-grow max-w-6xl mx-auto my-32">
+                <main className="flex-grow max-w-6xl mx-auto p-6 md:p-8 lg:p-12">
                     {children}
                 </main>
 
-                <footer className="bg-gray-900 text-gray-200">
-                    <div className="max-w-6xl mx-auto p-6 flex flex-col items-center md:flex-row md:justify-between">
+                <footer className="bg-gray-900 text-gray-200 py-8">
+                    <div className="max-w-6xl mx-auto flex flex-col items-center md:flex-row md:justify-between">
                         <p className="text-center text-sm md:text-base">
                             © 2024 My Portfolio. All Rights Reserved.
                         </p>
@@ -103,7 +103,6 @@ export default function RootLayout({ children }) {
                                 </svg>
                             </a>
                         </div>
-
                     </div>
                 </footer>
             </body>
