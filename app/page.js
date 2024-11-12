@@ -1,7 +1,7 @@
 "use client"
+import thumb from "@/public/images/propic.png"; // Replace with your actual image path
 import Image from "next/image";
 import { useEffect, useState } from "react";
-import thumb from "@/public/images/propic.png"; // Replace with your actual image path
 
 export default function Home() {
   const [isVisible, setIsVisible] = useState(false);
