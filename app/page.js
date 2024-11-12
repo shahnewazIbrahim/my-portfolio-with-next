@@ -1,5 +1,5 @@
 "use client"
-import thumb from "@/public/images/propic.png"; // Replace with your actual image path
+import thumb from "@/public/images/image.jpg"; // Replace with your actual image path
 import Image from "next/image";
 import { useEffect, useState } from "react";
 
